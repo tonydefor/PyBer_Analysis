@@ -1,7 +1,7 @@
 # PyBer_Analysis
 
 ## Overview of Analysis
-Using Jupyter Notebook, and Matplotlib, we create a variety of charts that showcased the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city. The analysis and visualizations you produce will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods.
+Using Jupyter Notebook, and Matplotlib, we created a variety of charts that showcased the relationship between the type of city and the number of drivers and riders, as well as the percentage of total fares, riders, and drivers by type of city. The analysis and visualizations you produce will help Pyber improve access to ridesharing services and determine affordability for underserved neighborhoods.
 
 ## Results
 
